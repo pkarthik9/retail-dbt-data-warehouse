@@ -1,0 +1,24 @@
+# Copy this file to ~/.dbt/profiles.yml (or set DBT_PROFILES_DIR to this repo).
+# Uses DuckDB so the whole warehouse runs locally with zero cloud setup -
+# the models are pure SQL/Jinja so retargeting to Snowflake/BigQuery/Postgres
+# later only means adding a new output block here, no model changes.
+
+retail_dw:
+  target: dev
+  outputs:
+    dev:
+      type: duckdb
+      path: 'retail_dw.duckdb'
+      threads: 4
+
+    # Example of what a real Snowflake target would look like:
+    # snowflake_prod:
+    #   type: snowflake
+    #   account: your_account
+    #   user: your_user
+    #   password: "{{ env_var('SNOWFLAKE_PASSWORD') }}"
+    #   role: TRANSFORMER
+    #   database: RETAIL_DW
+    #   warehouse: TRANSFORM_WH
+    #   schema: ANALYTICS
+    #   threads: 4

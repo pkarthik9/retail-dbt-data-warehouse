@@ -1,0 +1,31 @@
+product_id,product_name,category,unit_price
+P0001,Wireless Mouse,Beauty,122.46
+P0002,Bluetooth Speaker,Books,54.08
+P0003,Yoga Mat,Electronics,167.47
+P0004,Coffee Maker,Apparel,110.51
+P0005,Running Shoes,Books,217.05
+P0006,Desk Lamp,Electronics,170.95
+P0007,Backpack,Toys,31.82
+P0008,Notebook Set,Books,184.23
+P0009,Action Figure,Beauty,216.52
+P0010,Skin Serum,Home & Kitchen,54.36
+P0011,Air Fryer,Sports,116.56
+P0012,Board Game,Books,52.4
+P0013,Water Bottle,Books,68.45
+P0014,Office Chair,Electronics,115.24
+P0015,Phone Case,Beauty,215.14
+P0016,Wireless Earbuds,Electronics,20.24
+P0017,Throw Pillow,Sports,210.32
+P0018,Hiking Boots,Electronics,232.18
+P0019,Graphic Novel,Beauty,65.2
+P0020,Sunglasses,Books,125.53
+P0021,Building Blocks,Home & Kitchen,217.25
+P0022,Face Cream,Electronics,47.84
+P0023,Blender,Electronics,246.44
+P0024,Tennis Racket,Apparel,232.22
+P0025,Reading Lamp,Beauty,118.11
+P0026,Travel Mug,Books,176.58
+P0027,Puzzle 1000pc,Toys,248.89
+P0028,Dumbbell Set,Sports,168.17
+P0029,Scarf,Books,45.46
+P0030,Cookbook,Apparel,60.68

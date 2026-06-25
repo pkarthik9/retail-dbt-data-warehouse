@@ -1,0 +1,61 @@
+customer_id,first_name,last_name,email,country,signup_date
+C0001,Patricia,Smith,patricia.smith1@example.com,Canada,2024-10-08
+C0002,Linda,Jones,linda.jones2@example.com,Australia,2024-04-14
+C0003,Sarah,Williams,sarah.williams3@example.com,Germany,2025-08-27
+C0004,Mary,Smith,mary.smith4@example.com,Canada,2024-04-05
+C0005,Linda,Taylor,linda.taylor5@example.com,United States,2025-09-08
+C0006,Sarah,Miller,sarah.miller6@example.com,Australia,2025-10-27
+C0007,Sarah,Wilson,sarah.wilson7@example.com,Germany,2024-08-13
+C0008,Charles,Rodriguez,charles.rodriguez8@example.com,Canada,2024-01-07
+C0009,Susan,Hernandez,susan.hernandez9@example.com,Canada,2024-10-11
+C0010,Michael,Hernandez,michael.hernandez10@example.com,United States,2024-04-14
+C0011,Richard,Brown,richard.brown11@example.com,United Kingdom,2025-01-02
+C0012,Karen,Rodriguez,karen.rodriguez12@example.com,Australia,2024-02-14
+C0013,Joseph,Moore,joseph.moore13@example.com,Germany,2024-05-07
+C0014,Robert,Moore,robert.moore14@example.com,Australia,2024-10-27
+C0015,Karen,Lopez,karen.lopez15@example.com,Canada,2025-08-14
+C0016,Robert,Johnson,robert.johnson16@example.com,Canada,2025-11-08
+C0017,Elizabeth,Williams,elizabeth.williams17@example.com,United States,2024-08-26
+C0018,Richard,Rodriguez,richard.rodriguez18@example.com,Australia,2025-04-09
+C0019,Barbara,Garcia,barbara.garcia19@example.com,United Kingdom,2025-01-14
+C0020,Michael,Rodriguez,michael.rodriguez20@example.com,Australia,2025-11-30
+C0021,Robert,Martin,robert.martin21@example.com,Canada,2025-10-12
+C0022,Sarah,Davis,sarah.davis22@example.com,Germany,2024-06-16
+C0023,Richard,Rodriguez,richard.rodriguez23@example.com,Australia,2025-10-17
+C0024,Sarah,Davis,sarah.davis24@example.com,United States,2024-11-28
+C0025,Linda,Johnson,linda.johnson25@example.com,Germany,2024-11-19
+C0026,David,Williams,david.williams26@example.com,India,2024-08-04
+C0027,William,Miller,william.miller27@example.com,Germany,2025-11-02
+C0028,Richard,Anderson,richard.anderson28@example.com,United Kingdom,2024-05-26
+C0029,John,Davis,john.davis29@example.com,India,2025-07-28
+C0030,David,Jackson,david.jackson30@example.com,India,2025-03-14
+C0031,Richard,Lopez,richard.lopez31@example.com,Canada,2024-08-12
+C0032,Thomas,Thomas,thomas.thomas32@example.com,United States,2024-04-03
+C0033,Patricia,Jones,patricia.jones33@example.com,Canada,2025-10-04
+C0034,Susan,Martin,susan.martin34@example.com,Germany,2024-03-06
+C0035,Richard,Martin,richard.martin35@example.com,India,2025-04-24
+C0036,David,Moore,david.moore36@example.com,Australia,2024-01-12
+C0037,Patricia,Moore,patricia.moore37@example.com,Australia,2024-09-30
+C0038,William,Brown,william.brown38@example.com,Germany,2024-10-27
+C0039,Jennifer,Anderson,jennifer.anderson39@example.com,Australia,2024-01-04
+C0040,David,Taylor,david.taylor40@example.com,India,2024-07-01
+C0041,Patricia,Martinez,patricia.martinez41@example.com,India,2025-10-16
+C0042,Karen,Miller,karen.miller42@example.com,United Kingdom,2024-06-05
+C0043,Jennifer,Moore,jennifer.moore43@example.com,United States,2025-06-27
+C0044,Karen,Hernandez,karen.hernandez44@example.com,United States,2025-05-15
+C0045,Patricia,Lopez,patricia.lopez45@example.com,Canada,2024-11-10
+C0046,Mary,Davis,mary.davis46@example.com,United States,2025-08-03
+C0047,Robert,Thomas,robert.thomas47@example.com,India,2024-03-11
+C0048,John,Jones,john.jones48@example.com,Germany,2025-11-06
+C0049,Sarah,Garcia,sarah.garcia49@example.com,India,2024-09-28
+C0050,Karen,Wilson,karen.wilson50@example.com,India,2024-08-04
+C0051,Michael,Martinez,michael.martinez51@example.com,Australia,2025-02-12
+C0052,Barbara,Anderson,barbara.anderson52@example.com,Germany,2025-06-13
+C0053,Patricia,Davis,patricia.davis53@example.com,United States,2024-08-18
+C0054,William,Smith,william.smith54@example.com,India,2025-08-25
+C0055,Linda,Jackson,linda.jackson55@example.com,United States,2024-08-13
+C0056,Robert,Johnson,robert.johnson56@example.com,United States,2024-08-22
+C0057,Mary,Hernandez,mary.hernandez57@example.com,India,2024-03-13
+C0058,Linda,Rodriguez,linda.rodriguez58@example.com,Germany,2025-11-16
+C0059,Michael,Moore,michael.moore59@example.com,Australia,2024-05-15
+C0060,Charles,Jackson,charles.jackson60@example.com,Canada,2025-04-29
