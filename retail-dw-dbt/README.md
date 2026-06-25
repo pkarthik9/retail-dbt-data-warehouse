@@ -8,10 +8,10 @@ marts that can be plugged directly into Power BI or Looker Studio.
 
 ```
  ┌──────────────┐   ┌────────────────────┐   ┌───────────────────────────┐   ┌─────────────────┐
- │  Seed CSVs    │ -> │  staging models     │ -> │  marts (star schema)        │ -> │  BI dashboard    │
- │  (raw_*)      │   │  (cleaning, typing)  │   │  dim_customer, dim_product,  │   │  (Power BI /     │
- │               │   │                      │   │  fact_sales, + revenue/LTV   │   │  Looker Studio)  │
- │               │   │                      │   │  aggregate marts             │   │                   │
+ │  Seed CSVs   │ ->│  staging models    │ ->│  marts (star schema)      │ ->│  BI dashboard   │
+ │  (raw_*)     │   │  (cleaning, typing)│   │ dim_customer, dim_product,│   │  (Power BI /    │
+ │              │   │                    │   │  fact_sales, + revenue/LTV│   │  Looker Studio) │
+ │              │   │                    │   │  aggregate marts          │   │                 │
  └──────────────┘   └────────────────────┘   └───────────────────────────┘   └─────────────────┘
 ```
 
